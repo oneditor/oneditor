@@ -1,7 +1,7 @@
 # 一画编辑器
 [演示地址](https://oneditor.github.io/oneditor/?id=1)
 
-## 它是一个海报编辑器，但不仅于此
+## 它是一个海报编辑器，但不仅限于此
 * 是轻量的PS，但更加便捷。支持ps文件的导入，还原度达到95% (部分蒙版不支持)。
 * 支持文字、图片、svg、背景、多页面的编辑，支持导出png、jpeg、pdf等多种格式。
 * 提供了大量免费的模版、元素，摄影图，背景，字体等素材，同时也集成了AI生成素材。
@@ -19,7 +19,7 @@
 * 对于个人开发者它是免费的
 
 # 安装
-index.html 直接部署
+`index.html` 直接部署
 ```
 document.addEventListener('DOMContentLoaded', function () {
   window._SMARTEDITOR.createApp({
