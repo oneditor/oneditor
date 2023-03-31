@@ -1,4 +1,6 @@
 # 一画编辑器
+[English](https://github.com/oneditor/oneditor/blob/main/README.en.md)
+
 [演示地址](https://oneditor.github.io/oneditor/?id=1)
 
 ## 它是一个海报编辑器，但不仅限于此

@@ -1,4 +1,6 @@
 # One Editor
+[中文](https://github.com/oneditor/oneditor/blob/main/README.md)
+
 [Demo Link](https://oneditor.github.io/oneditor/?id=1)
 
 ## It is a poster editor, but not limited to that.
